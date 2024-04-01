@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science Engg.
 - 🌱 I’m currently learning NLP Engg
 - 💞️ I’m looking to collaborate on AI/ML/NLP projects
-- 📫 How to reach me mail-chand99mohit@gmail.com
+- 📫 How to reach me mail- chand99mohit@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Love to explore the unthinkable to real life.
 
