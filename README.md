@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohit99Chand
 - 👀 I’m interested in Data Science Engg.
-- 🌱 I’m currently learning NLP Engg
+- 🌱 I’m currently learning Web development & NLP Engg
 - 💞️ I’m looking to collaborate on AI/ML/NLP projects
 - 📫 How to reach me mail- chand99mohit@gmail.com
 - 😄 Pronouns: He
